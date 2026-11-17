@@ -26,6 +26,7 @@ At the start of a new task, read these files in order:
 6. `learning-system/04-ai-team-charter.md`
 7. `learning-system/06-knowledge-management.md`
 8. `learning-system/09-current-status.md`
+9. `learning-system/10-operating-playbook.md`
 
 Then read only the phase, unit, template, or reference files relevant to the assigned task. Do not load every file into context unless necessary.
 
