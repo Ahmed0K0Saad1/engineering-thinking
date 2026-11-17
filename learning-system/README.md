@@ -17,7 +17,7 @@ The learner should progressively become able to frame unfamiliar problems; extra
 | 06-knowledge-management.md | Logs, decisions, status, Git practices |
 | 07-research-and-source-policy.md | Source quality and verification |
 | 08-phase-00-baseline.md | Initial baseline audit |
-| 09-current-status.md | Current state and next action |
+| 09-current-status.md | Current state and next action |\n| 10-operating-playbook.md | Expert assessment, parallel study, AI role selection, session control, and Phase 0 execution |
 | references/ | Reference library |
 | templates/ | Reusable records |
 | decisions/ | Approved learning decisions |
