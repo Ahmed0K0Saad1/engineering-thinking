@@ -1,39 +1,36 @@
-# Engineering Thinking
+# Engineering Thinking & Geospatial Software Learning System
 
-## Purpose 
-- This repository documents the journey of builiding engineering thinking through structured learning, problem analysis,feature analysis, and real-world software engineering practices.
+A structured, evidence-based system for building engineering judgment, geospatial expertise, and software engineering capability.
 
-## Goals
-- Build an engineering mindset.
-- Learn how to analyse software features.
-- Improve problem-solving skills.
-- Learn professional software documentation.
-- Develob the ability to design solutions before implementation.
-- Apply engineering principles in real-world software projects.
+## Mission
+Develop the ability to independently understand real-world problems, define requirements, reason about measurements and spatial data, choose suitable methods, implement reliable solutions, validate results, and explain trade-offs.
 
-## Learning Path
-1. Engineering Mindset
-2. Engineering Workflow
-3. Software Engineering Fundamentals
-4. Gis Software Engineering
-5. Professional Development
+**Target profile:** Hybrid Geospatial + Software Engineering. AI/GeoAI is an advanced capability added only when foundations and a justified use case exist.
 
-## Repository Structure
+## Start Here
+AI assistants must read [AGENTS.md](AGENTS.md) first.
 
-README.md
-Entry point of the repository. Explains the purpose, goals, and learning path.
+Then follow the [Learning System Guide](learning-system/README.md).
 
-ROADMAP.md
-Describes the long-term learning journey and milestones.
+## Core Documents
+- [Master Roadmap](learning-system/01-master-roadmap.md)
+- [Prerequisites & Sequencing](learning-system/02-prerequisites-and-sequencing.md)
+- [Mastery & Assessment](learning-system/03-mastery-and-assessment.md)
+- [AI Team Charter](learning-system/04-ai-team-charter.md)
+- [AI Workflow & Prompts](learning-system/05-ai-workflow-and-prompts.md)
+- [Knowledge Management](learning-system/06-knowledge-management.md)
+- [Research & Source Policy](learning-system/07-research-and-source-policy.md)
+- [Phase 0 Baseline](learning-system/08-phase-00-baseline.md)
+- [Current Status](learning-system/09-current-status.md)
+- [References](learning-system/references/README.md)
 
-ENGINEERING_PRINCIPLES.md
-Contains the engineering principles followed throughout this repository.
+## Operating Principles
+1. One approved roadmap, not competing plans.
+2. One primary focus at a time, with only necessary supporting topics.
+3. Learn, attempt, apply, validate, document.
+4. Course completion is not mastery.
+5. AI supports reasoning; it does not replace learner evidence.
+6. The learner owns decisions and approves roadmap changes.
+7. Every meaningful session leaves a durable record.
 
-PROJECT_STATUS.md
-Tracks the current milestone, sprint, completed work, work in progress, and the next planned action.
-
-
-engineering-journal/
-Documents engineering thinking, feature analysis, design decisions, and lessons learned.
-
-## Progress
+Repository docs are in English for portability. Teaching conversations may use Arabic explanations with English technical terminology.
