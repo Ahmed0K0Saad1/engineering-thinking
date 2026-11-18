@@ -12,11 +12,11 @@
 - Unit 0.0 workflow status: COMPLETED.
 - Unit 0.0 gate outcome: GATE PASSED (2026-11-18).
 - Current diagnostic topic: Problem Understanding & Analytical Thinking.
-- Diagnostic workflow status: IN PROGRESS (independent responses have clarified the 12-month expected-net-profit objective subject to acceptable service quality, and challenged downloads as an inadequate proxy for active users and paid transactions; forecast evidence, assumptions, and a measurable service threshold remain pending).
-- Next authorized action: Learner identifies the minimum data/evidence needed to estimate 12-month net profit for each site and explains how to make "acceptable service" measurable.
+- Diagnostic workflow status: IN PROGRESS (the learner independently proposed order activity/status, regional product prices, customer-to-site distances, and outer/future-zone distances as forecast inputs. Important distinctions remain unresolved, and operating-cost categories and measurable service thresholds have not yet been identified).
+- Next authorized action: Learner identifies cost categories that the company must include to estimate 12-month net profit for each site; service thresholds and forecast assumptions follow.
 
 ## Mastery Snapshot
-- Problem Understanding & Analytical Thinking: NOT ASSESSED (independent evidence includes initial problem framing, rejection of population/download counts as direct profit proxies, and reframing the app-delivery request as highest expected net profit over 12 months subject to acceptable service quality. Forecast inputs and assumptions, a measurable service threshold, and a defensible decision boundary remain incomplete. One earlier contrastive answer is recorded as AI-assisted).
+- Problem Understanding & Analytical Thinking: NOT ASSESSED (independent evidence includes initial problem framing, rejection of population/download counts as direct profit proxies, objective reframing, and proposing demand/value/spatial inputs for a 12-month forecast. Important data definitions, operating-cost categories, assumptions, measurable service thresholds, and a defensible decision boundary remain incomplete. One earlier contrastive answer is recorded as AI-assisted).
 - Mathematics: NOT ASSESSED.
 - Computing / CS: NOT ASSESSED.
 - Programming / problem solving: NOT ASSESSED.
@@ -46,8 +46,10 @@ Out of scope: starting AI/ML courses; starting a large new portfolio project; ch
 - A contrastive service-area response was recorded as AI-assisted because examiner feedback preceded the answer.
 - In a new app-delivery context, the learner independently questioned the meaning of "best", challenged reliance on download counts alone, and reframed the objective as highest expected net profit over 12 months while maintaining acceptable service quality.
 - The learner asked what "expected" means; the examiner explained that it is a forecast based on evidence and assumptions, not a guaranteed outcome. This explanation is not counted as independent learner evidence.
+- The learner independently proposed order activity/status, regional product prices, distances from customer concentrations to each site, and distances to outer/future zones as candidate forecast inputs.
+- Examiner feedback identified ambiguity between order status and customer activity, product price and order value, and distance versus travel time/cost. This feedback is not counted as independent learner evidence.
 - No learner skill mastery state has yet been upgraded.
-- Diagnostic evidence remains incomplete; forecast evidence, assumptions, measurable service threshold, and decision boundary are pending.
+- Diagnostic evidence remains incomplete; operating-cost categories, forecast assumptions, measurable service threshold, and decision boundary are pending.
 
 ## Session Evidence
 - System-maintenance session log: `session-logs/2026-11-18-unit-0.0-system-documentation.md`.
@@ -57,6 +59,7 @@ Out of scope: starting AI/ML courses; starting a large new portfolio project; ch
 - AI-assisted contrastive response: `session-logs/2026-11-18-phase-0-problem-understanding-attempt-03.md`.
 - Independent transfer probe, partial response: `session-logs/2026-11-18-phase-0-problem-understanding-attempt-04.md`.
 - Objective reframing and clarification of "expected": `session-logs/2026-11-18-phase-0-problem-understanding-attempt-05.md`.
+- Initial forecast-input proposal: `session-logs/2026-11-18-phase-0-problem-understanding-attempt-06.md`.
 - Detailed records: `learning-system/session-logs/`.
 
 ## Update Protocol
