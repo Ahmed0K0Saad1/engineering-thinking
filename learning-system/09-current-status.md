@@ -12,11 +12,11 @@
 - Unit 0.0 workflow status: COMPLETED.
 - Unit 0.0 gate outcome: GATE PASSED (2026-11-18).
 - Current diagnostic topic: Problem Understanding & Analytical Thinking.
-- Diagnostic workflow status: IN PROGRESS (the learner independently proposed demand/value/spatial inputs and rent, labor, and delivery costs affected by distance, roads, and congestion. The learner also recognized that proximity alone cannot guarantee service quality and independently proposed order-to-delivery elapsed time as a service measure, with peak demand and insufficient couriers as possible causes of delay. Defining the acceptable threshold and identifying evidence to distinguish these causes remain unresolved).
-- Next authorized action: Learner identifies operational evidence needed to distinguish peak demand from insufficient courier capacity; then define an acceptable service-time threshold and examine distribution, before forecast assumptions and decision boundary.
+- Diagnostic workflow status: IN PROGRESS (the learner independently proposed demand/value/spatial inputs and rent, labor, and delivery costs affected by distance, roads, and congestion. The learner also recognized that proximity alone cannot guarantee service quality and independently proposed order-to-delivery elapsed time as a service measure, with peak demand and insufficient couriers as possible causes of delay. Defining the acceptable threshold and specifying comparable operational evidence to distinguish these causes remain unresolved. In Attempt 10, the learner proposed order-volume comparisons and identified poor courier allocation, traffic/congestion, and insufficient courier headcount as possible explanations).
+- Next authorized action: Learner specifies comparable time-window evidence to distinguish courier shortage from poor allocation; then define an acceptable service-time threshold and examine distribution, before forecast assumptions and decision boundary.
 
 ## Mastery Snapshot
-- Problem Understanding & Analytical Thinking: NOT ASSESSED (independent evidence includes initial problem framing, rejection of population/download counts as direct profit proxies, objective reframing, and proposing demand/value/spatial inputs for a 12-month forecast. Important data definitions, operating-cost categories, forecast assumptions, a defensible decision boundary, and a defined acceptable service-time threshold remain incomplete. The learner independently proposed order-to-delivery elapsed time as a measurable service variable in Attempt 09, but did not yet identify the evidence needed to diagnose delay causes. One earlier contrastive answer is recorded as AI-assisted).
+- Problem Understanding & Analytical Thinking: NOT ASSESSED (independent evidence includes initial problem framing, rejection of population/download counts as direct profit proxies, objective reframing, and proposing demand/value/spatial inputs for a 12-month forecast. Important data definitions, operating-cost categories, forecast assumptions, a defensible decision boundary, and a defined acceptable service-time threshold remain incomplete. The learner independently proposed order-to-delivery elapsed time as a measurable service variable in Attempt 09, and in Attempt 10 proposed comparing order volumes while identifying poor courier allocation, traffic/congestion, and insufficient courier headcount as competing explanations. The data needed to distinguish these causes remain underspecified. One earlier contrastive answer is recorded as AI-assisted).
 - Mathematics: NOT ASSESSED.
 - Computing / CS: NOT ASSESSED.
 - Programming / problem solving: NOT ASSESSED.
@@ -50,7 +50,7 @@ Out of scope: starting AI/ML courses; starting a large new portfolio project; ch
 - The learner asked what "expected" means; the examiner explained that it is a forecast based on evidence and assumptions, not a guaranteed outcome. This explanation is not counted as independent learner evidence.
 - The learner independently proposed order activity/status, regional product prices, distances from customer concentrations to each site, and distances to outer/future zones as candidate forecast inputs.
 - Examiner feedback identified ambiguity between order status and customer activity, product price and order value, and distance versus travel time/cost. This feedback is not counted as independent learner evidence.
-- In Attempt 09, the learner independently proposed order-to-delivery elapsed time as an observable service measure and identified peak demand and insufficient couriers as possible delay causes; the additional evidence needed to distinguish them remains untested. No learner skill mastery state has yet been upgraded.
+- In Attempt 09, the learner independently proposed order-to-delivery elapsed time as an observable service measure and identified peak demand and insufficient couriers as possible delay causes; the additional evidence needed to distinguish them remains untested. In Attempt 10, the learner independently proposed order-volume comparisons and identified courier allocation, traffic/congestion, and courier headcount as alternative delay causes. Comparable time windows and specific capacity/allocation/traffic evidence remain untested. No learner skill mastery state has yet been upgraded.
 - Diagnostic evidence remains incomplete; operating-cost categories, forecast assumptions, measurable service threshold, and decision boundary are pending.
 
 ## Session Evidence
@@ -63,7 +63,7 @@ Out of scope: starting AI/ML courses; starting a large new portfolio project; ch
 - Objective reframing and clarification of "expected": `session-logs/2026-11-18-phase-0-problem-understanding-attempt-05.md`.
 - Initial forecast-input proposal: `session-logs/2026-11-18-phase-0-problem-understanding-attempt-06.md`.
 - Cost-structure proposal: `session-logs/2026-11-18-phase-0-problem-understanding-attempt-07.md`.
-- Service-quality constraint response: `session-logs/2026-11-18-phase-0-problem-understanding-attempt-08.md`.\n- Initial service-performance measure proposal: `session-logs/2026-11-18-phase-0-problem-understanding-attempt-09.md`.
+- Service-quality constraint response: `session-logs/2026-11-18-phase-0-problem-understanding-attempt-08.md`.\n- Initial service-performance measure proposal: `session-logs/2026-11-18-phase-0-problem-understanding-attempt-09.md`.\n- Operational delay-cause hypotheses: `session-logs/2026-11-18-phase-0-problem-understanding-attempt-10.md`.
 - Detailed records: `learning-system/session-logs/`.
 
 ## Update Protocol
