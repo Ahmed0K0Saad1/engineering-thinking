@@ -12,11 +12,11 @@
 - Unit 0.0 workflow status: COMPLETED.
 - Unit 0.0 gate outcome: GATE PASSED (2026-11-18).
 - Current diagnostic topic: Problem Understanding & Analytical Thinking.
-- Diagnostic workflow status: IN PROGRESS (first task issued; learner response pending).
-- Next authorized action: Learner responds independently to the first diagnostic task below. Do not provide hints or a worked solution before the attempt.
+- Diagnostic workflow status: IN PROGRESS (initial problem-framing response received; error diagnosis and transfer evidence remain pending).
+- Next authorized action: Learner completes the next unaided error-diagnosis probe. Do not teach the target principle or give hints before the attempt.
 
 ## Mastery Snapshot
-- Problem Understanding & Analytical Thinking: NOT ASSESSED (diagnostic task issued; no learner response reviewed yet).
+- Problem Understanding & Analytical Thinking: NOT ASSESSED (one initial response reviewed; the four-part diagnostic evidence is incomplete).
 - Mathematics: NOT ASSESSED.
 - Computing / CS: NOT ASSESSED.
 - Programming / problem solving: NOT ASSESSED.
@@ -41,16 +41,15 @@ Out of scope: starting AI/ML courses; starting a large new portfolio project; ch
 - Onboarding and system documentation exist.
 - The baseline matrix includes prior-project capability dimensions and AI contribution disclosure.
 - The permanent session-log directory, naming convention, and status synchronization rules are documented.
-- Unit 0.0 specification and pre-diagnostic readiness checklist exist.
-- Workflow and mastery vocabularies are explicitly separated.
-- Engineering Thinking is documented as a continuous strand; Phase 0 precedes systematic Phase 1 instruction.
 - Unit 0.0 setup gate passed after the learner's explicit approval.
-- The first Problem Understanding & Analytical Thinking diagnostic task has been issued.
-- No learner skill mastery state has yet been upgraded.
+- The first Problem Understanding & Analytical Thinking diagnostic response has been received and reviewed provisionally.
+- One observed response is recorded; no skill mastery state has yet been upgraded.
+- Diagnostic evidence remains incomplete; error diagnosis and transfer probes are pending.
 
 ## Session Evidence
 - System-maintenance session log: `session-logs/2026-11-18-unit-0.0-system-documentation.md`.
 - Unit 0.0 approval and diagnostic handoff: `session-logs/2026-11-18-unit-0.0-approval-and-first-diagnostic.md`.
+- Initial problem-framing attempt: `session-logs/2026-11-18-phase-0-problem-understanding-attempt-01.md`.
 - Detailed records: `learning-system/session-logs/`.
 
 ## Update Protocol
