@@ -9,9 +9,9 @@
 - Current phase: Phase 0 — Baseline & Learning Setup.
 - Current unit: 0.0 — Establish baseline records and diagnostic protocol.
 - Phase workflow status: NOT STARTED.
-- Unit workflow status: IN PROGRESS (system documentation setup authorized; learner-skill diagnostics have not started).
+- Unit workflow status: IN PROGRESS (approved system-documentation setup is underway; learner-skill diagnostics have not started).
 - First diagnostic topic (selected, not started): Problem Understanding & Analytical Thinking.
-- Next authorized action: Complete and review the Unit 0.0 setup/readiness checklist; do not administer the first diagnostic until the checklist is complete and the learner explicitly approves.
+- Next authorized action: Learner reviews the Unit 0.0 specification and readiness protocol, confirms understanding, and decides whether to approve the first diagnostic. Do not administer it before explicit approval.
 
 ## Mastery Snapshot
 - Mathematics: NOT ASSESSED.
@@ -21,7 +21,7 @@
 - Existing project capability: NOT ASSESSED.
 - Problem Understanding & Analytical Thinking: NOT ASSESSED (selected as first diagnostic topic; no test administered).
 
-Workflow status describes execution progress; mastery state describes demonstrated learner capability. See `03-mastery-and-assessment.md`.
+Workflow status describes execution progress; mastery state describes demonstrated learner capability. Gate outcomes and next-action classifications are separate. See `03-mastery-and-assessment.md`.
 
 ## Known Context — To Verify
 The learner has previously studied Python and C and reports exposure to many software topics, but does not consider the foundations sufficiently solid. The learner has studied GIS/geospatial subjects and used QGIS and geospatial project repositories. These are clues, not evidence of independent mastery.
@@ -37,12 +37,16 @@ Out of scope: starting AI/ML courses; starting a large new portfolio project; ch
 
 ## Verified Deliverables
 - Onboarding and system documentation exist.
-- The system setup changes are recorded in the current repository revision.
-- No learner-skill diagnostic has been administered by this status record.
+- The baseline matrix includes prior-project capability dimensions and AI contribution disclosure.
+- The permanent session-log directory, naming convention, and status synchronization rules are documented.
+- Unit 0.0 specification and pre-diagnostic readiness checklist exist.
+- Workflow and mastery vocabularies are explicitly separated.
+- Engineering Thinking is documented as a continuous strand; Phase 0 precedes systematic Phase 1 instruction.
+- No learner-skill diagnostic has been administered.
 - No learning mastery state has been upgraded.
 
 ## Session Evidence
-- Latest system-setup record: pending creation after the documentation changes are verified.
+- System-maintenance session log: `session-logs/2026-11-18-unit-0.0-system-documentation.md`.
 - Detailed records: `learning-system/session-logs/`.
 
 ## Update Protocol

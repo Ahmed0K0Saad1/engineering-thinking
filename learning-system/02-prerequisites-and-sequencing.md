@@ -3,6 +3,11 @@
 ## Purpose
 The roadmap says what to learn; this file controls readiness and parallel study.
 
+## Cross-Phase Strand and Phase Sequence
+Engineering Thinking is a continuous strand, not an isolated phase. Its habits—clarifying the problem, identifying constraints and assumptions, reasoning from evidence, and checking results—may be used lightly during orientation and Phase 0 and should continue throughout every later phase.
+
+Phase 0 is the required baseline/setup gate before the systematic Phase 1 curriculum begins. This sequencing rule does not prohibit using analytical habits in Phase 0; it prevents the full Phase 1 syllabus from displacing the baseline and prerequisite audit.
+
 ## Dependency Map
 | Topic | Minimum prerequisites |
 |---|---|

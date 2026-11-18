@@ -29,11 +29,14 @@ A completed video, AI answer, copied code, or attractive map alone is not master
 - Detailed logs hold evidence and history. `09-current-status.md` holds only the current snapshot and links to relevant logs/evidence.
 - A session log proposes status changes; it does not silently update the status file or mastery state.
 
-## Weekly Review
-Use `templates/weekly-review.md` to record intended vs actual work, independent capabilities, repeated errors, uncertainties, scope changes, and one next priority.
-
 ## Status Vocabulary
-Use the separate vocabularies in `03-mastery-and-assessment.md`: workflow status for execution progress, mastery state for demonstrated capability. Never use COMPLETED as a synonym for mastery or GATE PASSED as a mastery state.
+Use the separate vocabularies in `03-mastery-and-assessment.md`:
+- **Workflow statuses:** NOT STARTED, IN PROGRESS, BLOCKED, READY FOR REVIEW, COMPLETED, DEFERRED.
+- **Mastery states:** NOT ASSESSED, FAMILIAR, EXPLAINED, APPLIED WITH HELP, APPLIED INDEPENDENTLY, EVALUATED, DEVELOPED, NEEDS REVIEW, DEFERRED.
+- **Gate outcome:** GATE PASSED is an exit-gate result, not a workflow status or mastery state.
+- **Next-action classification:** Skip for now, Review briefly, Study, Defer, or Needs external/supervised practice. These guide prioritization and are not status labels.
+
+Use the most specific mastery state supported by evidence. Do not mark a whole phase complete because one unit passed.
 
 ## Git Practices
 - Commit meaningful, reviewable changes with descriptive messages.

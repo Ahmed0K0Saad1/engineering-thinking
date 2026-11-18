@@ -4,7 +4,6 @@
 Progress is based on demonstrated capability, not hours, videos, or AI-generated output.
 
 ## Workflow Status vs Mastery State
-
 These are separate dimensions and must never be used interchangeably.
 
 **Workflow status** describes where a unit, task, or phase is in the execution process:
@@ -30,7 +29,11 @@ These are separate dimensions and must never be used interchangeably.
 | NEEDS REVIEW | Previously learned but now unreliable | Retrieval/application failure |
 | DEFERRED | Not needed in current period | Explicit reason |
 
-Do not collapse mastery states into one percentage. A unit may be COMPLETED while related skills remain NOT ASSESSED; a skill may be FAMILIAR while a future unit remains NOT STARTED.
+**Gate outcome** is recorded separately from both dimensions:
+- **GATE PASSED** means the unit/phase exit criteria were met with retained evidence.
+- A gate outcome does not automatically upgrade every related mastery state.
+
+Do not collapse mastery states into one percentage. A unit may be COMPLETED while related skills remain NOT ASSESSED; a skill may be FAMILIAR while a future unit remains NOT STARTED. A gate may be passed while some non-critical skill gaps remain explicitly deferred.
 
 ## Gate Specification
 Every unit gate defines:

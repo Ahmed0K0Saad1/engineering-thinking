@@ -1,11 +1,12 @@
 # Weekly Learning Review
 - Week:
 - Active phase/unit:
+- Workflow status:
 - Planned objective:
 - Actual study time:
 
 ## Outcomes
-- Completed:
+- Completed work:
 - Not completed:
 - Why:
 
@@ -29,8 +30,10 @@
 - AI errors/unhelpful output:
 - Independent verification:
 
-## Status Changes
-- Proposed:
+## State Review
+- Proposed workflow-status changes:
+- Proposed mastery-state changes:
+- Gate outcome, if assessed:
 - Evidence links:
 
 ## Next Week

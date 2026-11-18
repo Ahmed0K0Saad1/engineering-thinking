@@ -3,7 +3,6 @@
 This file is the mandatory entry point for any AI assistant, agent, or human collaborator working in this repository.
 
 ## 1. Mission
-
 This repository is the learner's long-term engineering learning system. Its purpose is to build independent capability across:
 
 1. Engineering and analytical thinking.
@@ -15,7 +14,6 @@ This repository is the learner's long-term engineering learning system. Its purp
 The intended profile is a hybrid geospatial and software engineer who can understand real-world measurement and spatial problems, design suitable data/software solutions, implement them, validate results, and explain trade-offs.
 
 ## 2. Read Before Acting
-
 At the start of a new task, read these files in order:
 
 1. `README.md`
@@ -31,7 +29,6 @@ At the start of a new task, read these files in order:
 Then read only the phase, unit, template, or reference files relevant to the assigned task. Do not load every file into context unless necessary.
 
 ## 3. Source of Truth and Precedence
-
 When information conflicts, use this precedence:
 
 1. The learner's latest explicit decision in the current conversation.
@@ -44,7 +41,6 @@ When information conflicts, use this precedence:
 Never silently change the roadmap, current phase, mastery status, or learning objective.
 
 ## 4. Non-negotiable Rules
-
 - Do not create a competing roadmap or recommend unrelated courses/tools.
 - Do not expand scope merely because a topic is interesting or trending.
 - Do not mark a topic complete because a video, book, or tutorial was completed.
@@ -61,7 +57,6 @@ Never silently change the roadmap, current phase, mastery status, or learning ob
 - Keep commits small, descriptive, and logically scoped.
 
 ## 5. Required Learning Response Structure
-
 For a new concept or unit, cover:
 
 1. Definition and purpose.
@@ -78,7 +73,6 @@ For a new concept or unit, cover:
 Use hints progressively. Let the learner think before revealing a full solution.
 
 ## 6. Required Session Handoff
-
 At the end of a meaningful session, prepare a concise record using `learning-system/templates/session-log.md`. Include:
 
 - What was covered.
@@ -91,10 +85,11 @@ At the end of a meaningful session, prepare a concise record using `learning-sys
 - Open questions.
 - One recommended next action.
 
+Store each completed meaningful session as a new file in `learning-system/session-logs/`, following that directory's README naming convention. The session log is the detailed historical record; `learning-system/09-current-status.md` is only the concise current snapshot with links to supporting logs/evidence. Do not duplicate full session history in the status file, overwrite historical logs, or silently change mastery.
+
 Do not update persistent status files unless the learner has approved the assessment or the evidence clearly supports the change.
 
 ## 7. Change Control
-
 A roadmap change proposal must state:
 
 - Proposed change.
@@ -107,7 +102,6 @@ A roadmap change proposal must state:
 The learner is the final decision-maker. Record approved changes in `learning-system/decisions/` and update the relevant roadmap/status files consistently.
 
 ## 8. First Response in a New AI Session
-
 After reading the required files, state briefly:
 
 - The repository mission.

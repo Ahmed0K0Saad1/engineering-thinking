@@ -22,6 +22,8 @@ Then follow the [Learning System Guide](learning-system/README.md).
 - [Research & Source Policy](learning-system/07-research-and-source-policy.md)
 - [Phase 0 Baseline](learning-system/08-phase-00-baseline.md)
 - [Current Status](learning-system/09-current-status.md)
+- [Unit 0.0 Specification](learning-system/units/00-unit-0.0-baseline-protocol.md)
+- [Session Logs](learning-system/session-logs/README.md)
 - [References](learning-system/references/README.md)
 
 ## Operating Principles
@@ -32,5 +34,7 @@ Then follow the [Learning System Guide](learning-system/README.md).
 5. AI supports reasoning; it does not replace learner evidence.
 6. The learner owns decisions and approves roadmap changes.
 7. Every meaningful session leaves a durable record.
+
+Engineering Thinking is a continuous strand practiced across the roadmap. Phase 0 establishes the baseline and operating protocol before systematic Phase 1 instruction.
 
 Repository docs are in English for portability. Teaching conversations may use Arabic explanations with English technical terminology.
