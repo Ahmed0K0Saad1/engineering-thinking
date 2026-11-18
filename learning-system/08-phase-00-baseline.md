@@ -1,6 +1,6 @@
 # Phase 0 — Baseline & Learning Setup
 
-**Workflow status:** NOT STARTED  
+**Workflow status:** IN PROGRESS  
 **Purpose:** Determine the real starting point without assuming zero knowledge or mastery.
 
 ## Phase 0 Scope

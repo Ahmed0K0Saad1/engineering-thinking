@@ -7,19 +7,21 @@
 - Approved direction: Hybrid Geospatial Science/Engineering + Software Engineering.
 - Advanced layer: AI/GeoAI after foundations and a justified use case.
 - Current phase: Phase 0 — Baseline & Learning Setup.
-- Current unit: 0.0 — Establish baseline records and diagnostic protocol.
-- Phase workflow status: NOT STARTED.
-- Unit workflow status: IN PROGRESS (approved system-documentation setup is underway; learner-skill diagnostics have not started).
-- First diagnostic topic (selected, not started): Problem Understanding & Analytical Thinking.
-- Next authorized action: Learner reviews the Unit 0.0 specification and readiness protocol, confirms understanding, and decides whether to approve the first diagnostic. Do not administer it before explicit approval.
+- Phase workflow status: IN PROGRESS.
+- Completed setup unit: 0.0 — Establish baseline records and diagnostic protocol.
+- Unit 0.0 workflow status: COMPLETED.
+- Unit 0.0 gate outcome: GATE PASSED (2026-11-18).
+- Current diagnostic topic: Problem Understanding & Analytical Thinking.
+- Diagnostic workflow status: IN PROGRESS (first task issued; learner response pending).
+- Next authorized action: Learner responds independently to the first diagnostic task below. Do not provide hints or a worked solution before the attempt.
 
 ## Mastery Snapshot
+- Problem Understanding & Analytical Thinking: NOT ASSESSED (diagnostic task issued; no learner response reviewed yet).
 - Mathematics: NOT ASSESSED.
 - Computing / CS: NOT ASSESSED.
 - Programming / problem solving: NOT ASSESSED.
 - Geospatial science: NOT ASSESSED.
 - Existing project capability: NOT ASSESSED.
-- Problem Understanding & Analytical Thinking: NOT ASSESSED (selected as first diagnostic topic; no test administered).
 
 Workflow status describes execution progress; mastery state describes demonstrated learner capability. Gate outcomes and next-action classifications are separate. See `03-mastery-and-assessment.md`.
 
@@ -31,9 +33,9 @@ The learner reports weak mathematical foundations, including fractions and equat
 Possible early professional contexts include land surveying and possibly hydrographic surveying related to ports/coastal infrastructure. The hydrographic opportunity is not confirmed. Do not assume employer, equipment, or workflow.
 
 ## Active Scope
-In scope: baseline mathematics/computing/programming/geospatial; review selected project understanding; establish learning records and AI workflow.
+In scope: baseline mathematics/computing/programming/geospatial; review selected project understanding; establish learning records and AI workflow; diagnose one small topic at a time.
 
-Out of scope: starting AI/ML courses; starting a large new portfolio project; choosing a permanent specialization; relearning every topic before assessment; adding languages/frameworks without need; administering a diagnostic before Unit 0.0 readiness and learner approval.
+Out of scope: starting AI/ML courses; starting a large new portfolio project; choosing a permanent specialization; relearning every topic before assessment; adding languages/frameworks without need; starting systematic Phase 1 instruction before Phase 0 closes.
 
 ## Verified Deliverables
 - Onboarding and system documentation exist.
@@ -42,11 +44,13 @@ Out of scope: starting AI/ML courses; starting a large new portfolio project; ch
 - Unit 0.0 specification and pre-diagnostic readiness checklist exist.
 - Workflow and mastery vocabularies are explicitly separated.
 - Engineering Thinking is documented as a continuous strand; Phase 0 precedes systematic Phase 1 instruction.
-- No learner-skill diagnostic has been administered.
-- No learning mastery state has been upgraded.
+- Unit 0.0 setup gate passed after the learner's explicit approval.
+- The first Problem Understanding & Analytical Thinking diagnostic task has been issued.
+- No learner skill mastery state has yet been upgraded.
 
 ## Session Evidence
 - System-maintenance session log: `session-logs/2026-11-18-unit-0.0-system-documentation.md`.
+- Unit 0.0 approval and diagnostic handoff: `session-logs/2026-11-18-unit-0.0-approval-and-first-diagnostic.md`.
 - Detailed records: `learning-system/session-logs/`.
 
 ## Update Protocol
