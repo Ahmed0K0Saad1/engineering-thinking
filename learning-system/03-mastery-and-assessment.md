@@ -3,26 +3,40 @@
 ## Principle
 Progress is based on demonstrated capability, not hours, videos, or AI-generated output.
 
-## Mastery States
-| State | Meaning | Evidence |
+## Workflow Status vs Mastery State
+
+These are separate dimensions and must never be used interchangeably.
+
+**Workflow status** describes where a unit, task, or phase is in the execution process:
+| Workflow status | Meaning |
+|---|---|
+| NOT STARTED | Work has not begun |
+| IN PROGRESS | Work is actively underway |
+| BLOCKED | Work cannot proceed until a stated dependency or decision is resolved |
+| READY FOR REVIEW | Work is prepared and awaiting review/assessment |
+| COMPLETED | The defined work or setup activity is complete; this alone does not imply skill mastery |
+| DEFERRED | Work is intentionally postponed, with a reason |
+
+**Mastery state** describes the learner's demonstrated capability in a topic:
+| Mastery state | Meaning | Evidence |
 |---|---|---|
 | NOT ASSESSED | No reliable evidence | None |
 | FAMILIAR | Recognizes terms and purpose | Identifies concepts |
 | EXPLAINED | Explains in own words | Clear explanation |
-| APPLIED WITH HELP | Completes with hints/guidance | Attempt and assistance record |
+| APPLIED WITH HELP | Completes with hints/guidance/AI assistance | Attempt and exact assistance record |
 | APPLIED INDEPENDENTLY | Solves a new representative task without solution steps | Independent work and checks |
 | EVALUATED | Detects errors and compares approaches | Review with evidence |
 | DEVELOPED | Builds a reusable solution | Artifact, tests, docs, validation |
 | NEEDS REVIEW | Previously learned but now unreliable | Retrieval/application failure |
 | DEFERRED | Not needed in current period | Explicit reason |
 
-Do not collapse these into one percentage.
+Do not collapse mastery states into one percentage. A unit may be COMPLETED while related skills remain NOT ASSESSED; a skill may be FAMILIAR while a future unit remains NOT STARTED.
 
 ## Gate Specification
 Every unit gate defines:
 - What must be explained.
 - What must be calculated, implemented, or performed.
-- A novel transfer task.
+- A novel transfer task where appropriate.
 - Permitted hint level.
 - Critical mistakes.
 - Validation method.

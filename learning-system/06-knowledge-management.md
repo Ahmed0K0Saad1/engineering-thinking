@@ -7,9 +7,9 @@ The repository is durable learning memory. Chat history is temporary working con
 | Record | Purpose |
 |---|---|
 | Master roadmap | Approved scope and order |
-| Current status | Active phase/unit and next action |
-| Unit specification | Outcomes, prerequisites, tasks, gate |
-| Session log | Work completed and evidence |
+| Current status | Concise current execution snapshot and next authorized action |
+| Unit specification | Outcomes, prerequisites, tasks, and exit gate |
+| Session log | Detailed historical record of work, evidence, assistance, errors, and validation |
 | Mistake record | Repeated errors and correction |
 | Knowledge gap | Missing capability and closure plan |
 | Decision record | Rationale for material choices |
@@ -22,15 +22,18 @@ Independent solution with reasoning; calculation with units and check; program w
 A completed video, AI answer, copied code, or attractive map alone is not mastery evidence.
 
 ## Session Logs
-Use templates/session-log.md. Keep records concise; link to large artifacts rather than duplicating them.
+- Permanent location: `learning-system/session-logs/`.
+- Naming convention and synchronization rules: `learning-system/session-logs/README.md`.
+- Start from `templates/session-log.md`.
+- One meaningful session = one new log; preserve historical logs rather than overwriting them.
+- Detailed logs hold evidence and history. `09-current-status.md` holds only the current snapshot and links to relevant logs/evidence.
+- A session log proposes status changes; it does not silently update the status file or mastery state.
 
 ## Weekly Review
-Use templates/weekly-review.md to record intended vs actual work, independent capabilities, repeated errors, uncertainties, scope changes, and one next priority.
+Use `templates/weekly-review.md` to record intended vs actual work, independent capabilities, repeated errors, uncertainties, scope changes, and one next priority.
 
 ## Status Vocabulary
-NOT STARTED; NOT ASSESSED; IN PROGRESS; FAMILIAR; EXPLAINED; APPLIED WITH HELP; APPLIED INDEPENDENTLY; EVALUATED; DEVELOPED; NEEDS REVIEW; GATE PASSED; DEFERRED.
-
-Use the most specific status supported by evidence. Do not mark a whole phase complete because one unit passed.
+Use the separate vocabularies in `03-mastery-and-assessment.md`: workflow status for execution progress, mastery state for demonstrated capability. Never use COMPLETED as a synonym for mastery or GATE PASSED as a mastery state.
 
 ## Git Practices
 - Commit meaningful, reviewable changes with descriptive messages.
